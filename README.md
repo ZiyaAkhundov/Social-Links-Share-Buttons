@@ -1,2 +1,2 @@
-# Twitter-Share-Button
-Sharing selected text on Twitter
+# Social-Links-Share-Buttons
+Sharing selected text on Social media
